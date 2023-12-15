@@ -5,7 +5,8 @@
 </div>
 
 # Front-End Enginner
-* **KAKAO Enterprise (2020.02 ~ )**
+* **KAKAO BRAIN (2023.08 ~)**
+* **KAKAO Enterprise (2020.02 ~ 2023.07)**
 * **iPortfolio (2016.05 ~ 2019.10)**
 * **(주) CUVEPIA (2014.02 ~ 2015.05)**
 * **주식회사 왈라소프트 (2013.01 ~ 2014.01)**
