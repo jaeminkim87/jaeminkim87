@@ -1,6 +1,6 @@
 <div align=center>
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjamminkim87%2Fhit-counter)](https://hits.seeyoufarm.com)
+  [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fjaeminkim87%2Fjaeminkim87?color=blue&label=hits&size=small)](https://myhits.vercel.app)
   
 </div>
 
